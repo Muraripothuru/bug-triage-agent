@@ -203,16 +203,3 @@ Duplicate bug detection using embeddings
 Developer workload-aware routing
 
 CI/CD pipeline integration
-
-🌐 Hackathon Context
-
-This project was developed for the Intel Unnati Hackathon, focusing on applying intelligent automation to real-world software engineering challenges.
-
-🤝 Author
-
-Pothuru Murari
-Web Application Security & DevOps Enthusiast
-
-📣 Build in Public
-
-This project was built in public and shared on LinkedIn as part of the hackathon journey.
